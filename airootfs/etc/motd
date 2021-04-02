@@ -1,9 +1,10 @@
-To install [38;2;23;147;209mArch Linux[0m follow the installation guide:
+建议跟随以下教程安装 [38;2;23;147;209mArch Linux[0m :
 https://wiki.archlinux.org/index.php/Installation_guide
+至于最新的安装脚本, 你们就别想了, 我是不会留下这个余孽的.
 
-For Wi-Fi, authenticate to the wireless network using the [35miwctl[0m utility.
-For mobile broadband (WWAN) modems, connect with the [35mmmcli[0m utility.
-Ethernet, WLAN and WWAN interfaces using DHCP should work automatically.
+WiFi用户可以使用 [35miwctl[0m 命令上网，你的老朋友 [35mwifi-menu[0m 也已回归.
+WWAN用户可以使用 [35mmmcli[0m 命令.
+如果在LiveCD启动前, 你的PC已经插入了网线, [35mdhcpcd[0m 将会自动被运行.
+如果在LiveCD启动后, 你的PC已经插入了网线, 你需要手动运行 [35mdhcpcd[0m .
 
-After connecting to the internet, the installation guide can be accessed
-via the convenience script [35mInstallation_guide[0m.
+当连接到互联网以后, 你可以通过 [35mInstallation_guide[0m 命令访问在线版archwiki.

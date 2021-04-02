@@ -17,6 +17,7 @@ darkhttpd
 ddrescue
 dhclient
 dhcpcd
+dialog
 diffutils
 dmraid
 dnsmasq
@@ -62,6 +63,7 @@ modemmanager
 mtools
 nano
 nbd
+netctl
 ndisc6
 nfs-utils
 nilfs-utils

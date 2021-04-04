@@ -5,7 +5,7 @@ https://wiki.archlinux.org/index.php/Installation_guide
 WiFi用户可以使用 [35miwctl[0m 命令上网，你的老朋友 [35mwifi-menu[0m 也已回归.
 WWAN用户可以使用 [35mmmcli[0m 命令.
 如果在LiveCD启动前, 你的PC已经插入了网线, [35mdhcpcd[0m 将会自动被运行.
-如果在LiveCD启动后, 你的PC已经插入了网线, 你需要手动运行 [35mdhcpcd[0m .
+如果在LiveCD启动后, 你的PC才插入了网线, 你需要手动运行 [35mdhcpcd[0m .
 
 当连接到互联网以后, 你可以通过 [35mInstallation_guide[0m 命令访问在线版archwiki.
 

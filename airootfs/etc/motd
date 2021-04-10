@@ -9,5 +9,7 @@ WWAN用户可以使用 [35mmmcli[0m 命令.
 
 当连接到互联网以后, 你可以通过 [35mInstallation_guide[0m 命令访问在线版archwiki.
 
+如果你有输入中文的需求，可以运行 [35mzhcon --utf8[0m 
+
 Now, It's your show time!
 

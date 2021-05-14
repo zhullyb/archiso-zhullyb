@@ -3,10 +3,10 @@
 Operation = Install
 Operation = Upgrade
 Type = Package
-Target = linux-xanmod-cacule-uksm-cjktty
+Target = linux-zhullyb
 
 [Action]
-Description = Renaming linux-xanmod-cacule-uksm-cjktty to linux...
+Description = Renaming linux-zhullyb to linux...
 When = PostTransaction
-Depends = linux-xanmod-cacule-uksm-cjktty
-Exec = /usr/bin/sh -c 'mv -v /boot/vmlinuz-linux-xanmod-cacule-uksm-cjktty /boot/vmlinuz-linux; mv -v /boot/initramfs-linux-xanmod-cacule-uksm-cjktty.img /boot/initramfs-linux.img'
+Depends = linux-zhullyb
+Exec = /usr/bin/sh -c 'mv -v /boot/vmlinuz-linux-zhullyb /boot/vmlinuz-linux; mv -v /boot/initramfs-linux-zhullyb.img /boot/initramfs-linux.img'

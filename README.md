@@ -8,7 +8,7 @@ master分支内是我修改后的配置文件，releng分支存放的是Archlinu
 - 移除reflector，并默认使用国内镜像源
 - 禁用源签名验证，以防止出现keyring过期问题
 - 支持wifi-menu命令
-- 采用AUR中的`linux-xanmod-cacule-uksm-cjktty`作为默认内核，以支持cjktty特性
+- 采用AUR中的`linux-zhullyb`作为默认内核，以支持cjktty特性
 - 默认语言为zh_CN
 - 移除无聊的愚人节彩蛋
 - 移除`sl`

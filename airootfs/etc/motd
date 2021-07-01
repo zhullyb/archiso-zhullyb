@@ -1,5 +1,5 @@
 建议跟随以下教程安装 [38;2;23;147;209mArch Linux[0m :
-https://wiki.archlinux.org/index.php/Installation_guide
+https://wiki.archlinux.org/title/Installation_guide
 至于最新的安装脚本, 你们就别想了, 我是不会留下这个余孽的.
 
 WiFi用户可以使用 [35miwctl[0m 命令上网，你的老朋友 [35mwifi-menu[0m 也已回归.
